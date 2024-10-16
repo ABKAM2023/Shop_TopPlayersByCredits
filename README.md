@@ -2,7 +2,6 @@
 **[SHOP] Top Players by Credits** — показывает топ игроков по кредитам в разделе "Функции".
 
 **Обязательно пропишите переводы в** `plugins/Shop/lang`.
-`ru.json`:
 ```json
 {
   "Menu_ShowTopPlayers": "Показать топ игроков",
@@ -30,7 +29,6 @@
 **[SHOP] Top Players by Credits** — displays the top players by credits in the "Functions" section.
 
 **Be sure to add translations in** `plugins/Shop/lang`.
-`ru.json`:
 ```json
 {
   "Menu_ShowTopPlayers": "Show top players",
